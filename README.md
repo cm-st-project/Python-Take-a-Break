@@ -42,7 +42,7 @@ Take a Break with Face Detection
     - https://www.w3schools.com/python/python_sets_join.asp
   - Methods
     - https://www.w3schools.com/python/python_sets_methods.asp     
-  Week 4 Dictionaries 
+- Week 4 Dictionaries 
   - Definition.
     - https://www.w3schools.com/python/python_dictionaries.asp
   - Access items
@@ -65,18 +65,27 @@ Take a Break with Face Detection
   - Classes
     - https://www.w3schools.com/python/python_classes.asp  
 ## Module 2 - AI Basics
-* AI and Sklearn
-   * Topics
-     * The Introduction to AI 
-     * AI in Actions with Sklearn
-   * References
-     * Lecture Slides (pptx): [Link](https://drive.google.com/file/d/1QaDNCroT7mR968lUs_43RR8QSu08eNkE/view?usp=sharing)
-     * Lecture Slides (keynote): [Link](https://docs.google.com/presentation/d/1QfNrK_L4GrO6FQyZTCdpSGkWpw2EHN3M/edit?usp=sharing&ouid=104361959057037146246&rtpof=true&sd=true)
-     * Lecture sample: https://youtu.be/EjFanvsr-vk
-     * Repl code sample: https://replit.com/@sunyu912/ForsakenTanConversions#main.py
-   * Milestone and Goals
-     * Student understands the major AI/Machine Learning concept (i.e., dataset, training, prediction)
-     * Student understands the basic Sklearn Iris flower classification example code
-
+- Week 6 - AI and CV2
+   - The Introduction to AI 
+     - Lecture Slides (pptx): [Link](https://drive.google.com/file/d/1QaDNCroT7mR968lUs_43RR8QSu08eNkE/view?usp=sharing)
+     - Lecture Slides (keynote): [Link](https://docs.google.com/presentation/d/1QfNrK_L4GrO6FQyZTCdpSGkWpw2EHN3M/edit?usp=sharing&ouid=104361959057037146246&rtpof=true&sd=true)
+     - Lecture sample: https://youtu.be/EjFanvsr-vk
+   - CV2
+      - OpenCV Get Started
+        - Setup environment
+        - Introduction to OpenCV
+          - https://learnopencv.com/getting-started-with-opencv/
+        - Run the read, display and write an image example (with an image)
+          - https://learnopencv.com/read-display-and-write-an-image-using-opencv/
+        - Run the image resizing example (with an image)
+          - https://learnopencv.com/image-resizing-with-opencv/
+        - Run the read, display and write an video example (with a video)
+          - https://learnopencv.com/reading-and-writing-videos-using-opencv/  
+- Week 7 - CV2 - Face recognition
+  - cv2-cvtcolor
+    - https://www.geeksforgeeks.org/python-opencv-cv2-cvtcolor-method/ 
+  - Face detection using Cascade Classifier
+    - https://www.geeksforgeeks.org/face-detection-using-cascade-classifier-using-opencv-python/       
 ## Module 3 - AI Engine
-
+- Week 8-14 Use the provided code
+  -  
