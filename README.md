@@ -88,4 +88,4 @@ Take a Break with Face Detection
     - https://www.geeksforgeeks.org/face-detection-using-cascade-classifier-using-opencv-python/       
 ## Module 3 - AI Engine
 - Week 8-14 Use the provided code
-  -  
+  - https://github.com/cm-st-project/Python-Take-a-Break/blob/main/take_a_break.py 
