@@ -3,14 +3,14 @@ Take a Break with Face Detection
 
 # Curriculum
 ## Module 1 - Python Basics
-- Week 1 Loops
+- Week 1 Loops - If/Else
   - If-Else
     - https://www.w3schools.com/python/python_conditions.asp  
   - While loops
     - https://www.w3schools.com/python/python_while_loops.asp
   - For loops   
     - https://www.w3schools.com/python/python_for_loops.asp 
-- Week 2 Lists 
+- Week 2 - Lists 
   - Definition.
     - w3schools.com/python/python_lists.asp
   - Access list items
@@ -42,7 +42,7 @@ Take a Break with Face Detection
     - https://www.w3schools.com/python/python_sets_join.asp
   - Methods
     - https://www.w3schools.com/python/python_sets_methods.asp     
-- Week 4 Dictionaries 
+- Week 4 - Dictionaries 
   - Definition.
     - https://www.w3schools.com/python/python_dictionaries.asp
   - Access items
@@ -87,5 +87,5 @@ Take a Break with Face Detection
   - Face detection using Cascade Classifier
     - https://www.geeksforgeeks.org/face-detection-using-cascade-classifier-using-opencv-python/       
 ## Module 3 - AI Engine
-- Week 8-14 Use the provided code
+- Week 8-14 - Use the provided code
   - https://github.com/cm-st-project/Python-Take-a-Break/blob/main/take_a_break.py 
