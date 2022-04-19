@@ -1,5 +1,5 @@
 # Python-Take-a-Break
-Use face detector to notify users that they have been in front of a computer screen for too long and they need to take  a break.
+Use face detection to notify users that they have been in front of a computer screen for too long and they need to take  a break.
 
 # Curriculum
 ## Module 1 - Python Basics
