@@ -65,11 +65,7 @@ Use face detection to notify users that they have been in front of a computer sc
   - Classes
     - https://www.w3schools.com/python/python_classes.asp  
 ## Module 2 - AI Basics
-- Week 6 - AI and CV2
-   - The Introduction to AI 
-     - Lecture Slides (pptx): [Link](https://drive.google.com/file/d/1QaDNCroT7mR968lUs_43RR8QSu08eNkE/view?usp=sharing)
-     - Lecture Slides (keynote): [Link](https://docs.google.com/presentation/d/1QfNrK_L4GrO6FQyZTCdpSGkWpw2EHN3M/edit?usp=sharing&ouid=104361959057037146246&rtpof=true&sd=true)
-     - Lecture sample: https://youtu.be/EjFanvsr-vk
+- Week 6-7 -CV2
    - CV2
       - OpenCV Get Started
         - Setup environment
@@ -81,10 +77,10 @@ Use face detection to notify users that they have been in front of a computer sc
           - https://learnopencv.com/image-resizing-with-opencv/
         - Run the read, display and write an video example (with a video)
           - https://learnopencv.com/reading-and-writing-videos-using-opencv/  
-- Week 7 - CV2 - Face recognition
-  - cv2-cvtcolor
-    - https://www.geeksforgeeks.org/python-opencv-cv2-cvtcolor-method/ 
-  - Face detection using Cascade Classifier
+
+    - cv2-cvtcolor
+      - https://www.geeksforgeeks.org/python-opencv-cv2-cvtcolor-method/ 
+    - Face detection using Cascade Classifier
     - https://www.geeksforgeeks.org/face-detection-using-cascade-classifier-using-opencv-python/       
 ## Module 3 - AI Engine
 - Week 8-14 - Use the provided code
