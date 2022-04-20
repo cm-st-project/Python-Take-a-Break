@@ -78,8 +78,8 @@ Use face detection to notify users that they have been in front of a computer sc
         - Run the read, display and write an video example (with a video)
           - https://learnopencv.com/reading-and-writing-videos-using-opencv/  
 
-      - cv2-cvtcolor
-        - https://www.geeksforgeeks.org/python-opencv-cv2-cvtcolor-method/ 
+        - cv2-cvtcolor
+          - https://www.geeksforgeeks.org/python-opencv-cv2-cvtcolor-method/ 
     - Face detection using Cascade Classifier
       - https://www.geeksforgeeks.org/face-detection-using-cascade-classifier-using-opencv-python/       
 ## Module 3 - AI Engine
